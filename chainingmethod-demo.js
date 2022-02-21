@@ -1,0 +1,1 @@
+account.number('123456789').setBalance(150000).applyCredit(200);
